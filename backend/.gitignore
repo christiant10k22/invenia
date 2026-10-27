@@ -42,7 +42,6 @@ build/
 
 # IntelliJ
 .idea/
-*.iml
 
 # Logs
 *.log
